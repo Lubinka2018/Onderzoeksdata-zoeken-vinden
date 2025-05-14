@@ -2,5 +2,6 @@ title: "Zoeken, vinden en beoordelen van onderzoeksdata"
 description: "Een eenvoudige website over het zoeken, vinden en beoordelen van onderzoeksdata."
 theme: minima
 
-# Custom title for the browser tab
+# Add custom title for the header
 title_separator: "|"
+
