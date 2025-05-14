@@ -11,18 +11,23 @@ Naast theoretische achtergrond ga je praktisch aan de slag met het zoeken naar d
 
 ## Programma
 
-| Tijd            | Onderdeel                   |
-|-----------------|-----------------------------|
-| 09:30 - 09:40   | Opening & kennismaking      |
-| 09:40 - 10:00   | Zoekstrategie: waar?        |
-| 10:00 - 10:25   | Opdracht 1                  |
-| 10:25 - 10:40   | Pauze                       |
-| 10:40 - 11:00   | Zoeken en documenteren      |
-| 11:00 - 11:25   | Opdracht 2                  |
-| 11:25 - 11:40   | Pauze                       |
-| 11:40 - 11:55   | Selecteren & beoordelen     |
-| 11:55 - 12:20   | Opdracht 3                  |
-| 12:20 - 12:30   | Wrap-up                     |
-
-
-
+<table>
+  <thead>
+    <tr>
+      <th>Tijd</th>
+      <th>Onderdeel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>09:30 - 09:40</td><td>Opening & kennismaking</td></tr>
+    <tr><td>09:40 - 10:00</td><td>Zoekstrategie: waar?</td></tr>
+    <tr><td>10:00 - 10:25</td><td>Opdracht 1</td></tr>
+    <tr><td>10:25 - 10:40</td><td>Pauze</td></tr>
+    <tr><td>10:40 - 11:00</td><td>Zoeken en documenteren</td></tr>
+    <tr><td>11:00 - 11:25</td><td>Opdracht 2</td></tr>
+    <tr><td>11:25 - 11:40</td><td>Pauze</td></tr>
+    <tr><td>11:40 - 11:55</td><td>Selecteren & beoordelen</td></tr>
+    <tr><td>11:55 - 12:20</td><td>Opdracht 3</td></tr>
+    <tr><td>12:20 - 12:30</td><td>Wrap-up</td></tr>
+  </tbody>
+</table>
