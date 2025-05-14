@@ -23,38 +23,42 @@ en het beoordelen van de compatibiliteit met verschillende Creative Commons-lice
 Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data, maar ook verantwoorden waarom je in sommige gevallen toch zelf data gaat verzamelen.
 </p>
 
-<!-- Programma Table -->
-<h2 style="margin-top: 2em;">Programma</h2>
+<!-- Programma Table and Opdrachten Links Side by Side -->
+<div style="display: flex; gap: 40px; margin-top: 2em;">
 
-<div style="max-width: 600px;">
-  <table style="width: 100%; border-collapse: collapse; margin-top: 1em; font-size: 0.95rem;">
-    <thead>
-      <tr style="background-color: #f2f2f2;">
-        <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">Tijd</th>
-        <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">Onderdeel</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">09:30 - 09:40</td><td style="border: 1px solid #ccc; padding: 8px;">Opening & kennismaking</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">09:40 - 10:00</td><td style="border: 1px solid #ccc; padding: 8px;">Zoekstrategie: waar?</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">10:00 - 10:25</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 1</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">10:25 - 10:40</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">10:40 - 11:00</td><td style="border: 1px solid #ccc; padding: 8px;">Zoeken en documenteren</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">11:00 - 11:25</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 2</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">11:25 - 11:40</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">11:40 - 11:55</td><td style="border: 1px solid #ccc; padding: 8px;">Selecteren & beoordelen</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">11:55 - 12:20</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 3</td></tr>
-      <tr><td style="border: 1px solid #ccc; padding: 8px;">12:20 - 12:30</td><td style="border: 1px solid #ccc; padding: 8px;">Wrap-up</td></tr>
-    </tbody>
-  </table>
+  <!-- Programma Table -->
+  <div style="max-width: 600px; flex: 1;">
+    <h2>Programma</h2>
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+      <thead>
+        <tr style="background-color: #f2f2f2;">
+          <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">Tijd</th>
+          <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">Onderdeel</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">09:30 - 09:40</td><td style="border: 1px solid #ccc; padding: 8px;">Opening & kennismaking</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">09:40 - 10:00</td><td style="border: 1px solid #ccc; padding: 8px;">Zoekstrategie: waar?</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">10:00 - 10:25</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 1</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">10:25 - 10:40</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">10:40 - 11:00</td><td style="border: 1px solid #ccc; padding: 8px;">Zoeken en documenteren</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">11:00 - 11:25</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 2</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">11:25 - 11:40</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">11:40 - 11:55</td><td style="border: 1px solid #ccc; padding: 8px;">Selecteren & beoordelen</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">11:55 - 12:20</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 3</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">12:20 - 12:30</td><td style="border: 1px solid #ccc; padding: 8px;">Wrap-up</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Opdrachten Links Section -->
+  <div style="flex: 1;">
+    <h2>Opdrachten</h2>
+    <ul>
+      <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht1.html">Opdracht 1</a></li>
+      <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht2.html">Opdracht 2</a></li>
+      <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht3.html">Opdracht 3</a></li>
+    </ul>
+  </div>
+
 </div>
-
-<!-- Opdrachten Links -->
-<h2 style="margin-top: 2em;">Opdrachten</h2>
-
-<ul>
-  <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht1.html">Opdracht 1</a></li>
-  <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht2.html">Opdracht 2</a></li>
-  <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht3.html">Opdracht 3</a></li>
-</ul>
-
