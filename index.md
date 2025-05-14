@@ -11,23 +11,24 @@ Naast theoretische achtergrond ga je praktisch aan de slag met het zoeken naar d
 
 ## Programma
 
-<table>
+<table style="width:100%; border-collapse: collapse; margin-top: 1em;">
   <thead>
-    <tr>
-      <th>Tijd</th>
-      <th>Onderdeel</th>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Tijd</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Onderdeel</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>09:30 - 09:40</td><td>Opening & kennismaking</td></tr>
-    <tr><td>09:40 - 10:00</td><td>Zoekstrategie: waar?</td></tr>
-    <tr><td>10:00 - 10:25</td><td>Opdracht 1</td></tr>
-    <tr><td>10:25 - 10:40</td><td>Pauze</td></tr>
-    <tr><td>10:40 - 11:00</td><td>Zoeken en documenteren</td></tr>
-    <tr><td>11:00 - 11:25</td><td>Opdracht 2</td></tr>
-    <tr><td>11:25 - 11:40</td><td>Pauze</td></tr>
-    <tr><td>11:40 - 11:55</td><td>Selecteren & beoordelen</td></tr>
-    <tr><td>11:55 - 12:20</td><td>Opdracht 3</td></tr>
-    <tr><td>12:20 - 12:30</td><td>Wrap-up</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">09:30 - 09:40</td><td style="border: 1px solid #ddd; padding: 8px;">Opening & kennismaking</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">09:40 - 10:00</td><td style="border: 1px solid #ddd; padding: 8px;">Zoekstrategie: waar?</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">10:00 - 10:25</td><td style="border: 1px solid #ddd; padding: 8px;">Opdracht 1</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">10:25 - 10:40</td><td style="border: 1px solid #ddd; padding: 8px;">Pauze</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">10:40 - 11:00</td><td style="border: 1px solid #ddd; padding: 8px;">Zoeken en documenteren</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">11:00 - 11:25</td><td style="border: 1px solid #ddd; padding: 8px;">Opdracht 2</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">11:25 - 11:40</td><td style="border: 1px solid #ddd; padding: 8px;">Pauze</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">11:40 - 11:55</td><td style="border: 1px solid #ddd; padding: 8px;">Selecteren & beoordelen</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">11:55 - 12:20</td><td style="border: 1px solid #ddd; padding: 8px;">Opdracht 3</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">12:20 - 12:30</td><td style="border: 1px solid #ddd; padding: 8px;">Wrap-up</td></tr>
   </tbody>
 </table>
+
