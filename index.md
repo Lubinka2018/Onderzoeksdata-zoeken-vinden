@@ -3,9 +3,10 @@ layout: default
 title: "Zoeken, vinden en beoordelen van onderzoeksdata"
 ---
 
-<!-- Page Title with Logo -->
+<!-- Page Title with Larger Logo -->
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 1.5em;">
-  <img src="/Onderzoeksdata-zoeken-vinden/assets/DCC_SPRING_logo_2025.jpg" alt="DCC Logo" style="height: 60px;">
+  <!-- Make the image larger (height increased to 120px) -->
+  <img src="/Onderzoeksdata-zoeken-vinden/assets/DCC_SPRING_logo_2025.jpg" alt="DCC Logo" style="height: 120px;">
   <h1 style="margin: 0;">Zoeken, vinden en beoordelen van onderzoeksdata</h1>
 </div>
 
@@ -47,3 +48,13 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     </tbody>
   </table>
 </div>
+
+<!-- Opdrachten Links -->
+<h2 style="margin-top: 2em;">Opdrachten</h2>
+
+<ul>
+  <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht1.html">Opdracht 1</a></li>
+  <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht2.html">Opdracht 2</a></li>
+  <li><a href="/Onderzoeksdata-zoeken-vinden/opdracht3.html">Opdracht 3</a></li>
+</ul>
+
