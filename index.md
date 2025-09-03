@@ -51,8 +51,11 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     </table>
   </div>
 
-## Opdrachten
-
-- [Opdracht 1](/Opdracht1)
-- [Opdracht 2](/Opdracht2)
-- [Opdracht 3](/Opdracht3)
+<div style="flex: 1;">
+  <h2>Opdrachten</h2>
+  <ul>
+    <li><a href="./Onderzoeksdata-zoeken-vinden/Opdracht1">Opdracht 1</a></li>
+    <li><a href="./Onderzoeksdata-zoeken-vinden/Opdracht2">Opdracht 2</a></li>
+    <li><a href="./Onderzoeksdata-zoeken-vinden/Opdracht3">Opdracht 3</a></li>
+  </ul>
+</div>
