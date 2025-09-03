@@ -51,8 +51,9 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     </table>
   </div>
 
+
 ## Opdrachten
 
-- [Opdracht 1](./Onderzoeksdata-zoeken-vinden/Opdracht1)
-- [Opdracht 2](./Onderzoeksdata-zoeken-vinden/Opdracht2)
-- [Opdracht 3](./Onderzoeksdata-zoeken-vinden/Opdracht3)
+- [Opdracht 1](Opdracht1)
+- [Opdracht 2](Opdracht2)
+- [Opdracht 3](Opdracht3)
