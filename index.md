@@ -5,7 +5,6 @@ title: "Zoeken, vinden en beoordelen van onderzoeksdata"
 
 <!-- Page Title with Larger Logo -->
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 1.5em;">
-  <!-- Make the image larger (height increased to 120px) -->
   <img src="/Onderzoeksdata-zoeken-vinden/assets/DCC_SPRING_logo_2025.jpg" alt="DCC Logo" style="height: 120px;">
   <h1 style="margin: 0;">Zoeken, vinden en beoordelen van onderzoeksdata</h1>
 </div>
@@ -51,9 +50,14 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     </table>
   </div>
 
+  <!-- Opdrachten Links -->
+  <div style="flex: 1;">
+    <h2>Opdrachten</h2>
+    <ul>
+      <li><a href="Opdracht1">Opdracht 1</a></li>
+      <li><a href="Opdracht2">Opdracht 2</a></li>
+      <li><a href="Opdracht3">Opdracht 3</a></li>
+    </ul>
+  </div>
+</div>
 
-## Opdrachten
-
-- [Opdracht 1](Opdracht1)
-- [Opdracht 2](Opdracht2)
-- [Opdracht 3](Opdracht3)
