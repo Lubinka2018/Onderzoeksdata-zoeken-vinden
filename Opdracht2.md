@@ -1,3 +1,5 @@
+Opdracht 2
+
 [← Terug naar start]({{ site.baseurl }}/)
 
 1. Formuleer je zoekstrategie: trefwoorden, filters, etc. 
