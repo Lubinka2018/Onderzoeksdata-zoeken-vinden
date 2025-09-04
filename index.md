@@ -63,7 +63,7 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
       <li><a href="Opdracht3">Opdracht 3</a></li>
     </ul>
     <div style="margin-top: 1.5em;">
-      <h2>Bronnen</h2>
+    
       <ul>
         <li><a href="Bronnen">Bronnen en linkjes</a></li>
       </ul>
