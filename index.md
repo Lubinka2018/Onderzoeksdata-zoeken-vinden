@@ -88,3 +88,16 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     neem dan contact op met de organisatoren van de workshop!
   </p>
 </div>
+
+<!-- Licentie -->
+<div style="margin-top: 3em; font-size: 0.9rem; color: #555;">
+  <p>
+    Dit project valt onder de <strong>Creative Commons Attribution 4.0-licentie</strong>.
+  </p>
+  <p>
+    Meer informatie vind je op de officiële website van
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">
+      Creative Commons
+    </a>.
+  </p>
+</div>
