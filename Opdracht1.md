@@ -1,6 +1,7 @@
-## Opdracht 1
 
 [← Terug naar start]({{ site.baseurl }}/)
+
+# Opdracht 1
 
 ## Formuleer je onderzoeksvraag
 
