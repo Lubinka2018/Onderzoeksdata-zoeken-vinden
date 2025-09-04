@@ -4,8 +4,6 @@
 
 ## Formuleer je onderzoeksvraag
 
-- Selecteer relevante data repositories en andere bronnen
-
-- Maak een planning: wanneer ga je zoeken? In welke volgorde ga je zoeken (zoekmachines, repositories, literatuur, etc.)?
-
-- Verantwoord je strategie en selectie
+1. Selecteer relevante data repositories en andere bronnen
+2. Maak een planning: wanneer ga je zoeken? In welke volgorde ga je zoeken (zoekmachines, repositories, literatuur, etc.)?
+3. Verantwoord je strategie en selectie
