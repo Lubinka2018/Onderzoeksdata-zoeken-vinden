@@ -95,9 +95,8 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     Dit project valt onder de <strong>Creative Commons Attribution 4.0-licentie</strong>.
   </p>
   <p>
-    Meer informatie vind je op de officiële website van
     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">
-      Creative Commons
-    </a>.
+      https://creativecommons.org/licenses/by/4.0/
+    </a>
   </p>
 </div>
