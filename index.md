@@ -36,16 +36,20 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
         </tr>
       </thead>
       <tbody>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">09:30 - 09:40</td><td style="border: 1px solid #ccc; padding: 8px;">Opening & kennismaking</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">09:40 - 10:00</td><td style="border: 1px solid #ccc; padding: 8px;">Zoekstrategie: waar?</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">10:00 - 10:25</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 1</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">10:25 - 10:40</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">10:40 - 11:00</td><td style="border: 1px solid #ccc; padding: 8px;">Zoeken en documenteren</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">11:00 - 11:25</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 2</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">11:25 - 11:40</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">11:40 - 11:55</td><td style="border: 1px solid #ccc; padding: 8px;">Selecteren & beoordelen</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">11:55 - 12:20</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 3</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">12:20 - 12:30</td><td style="border: 1px solid #ccc; padding: 8px;">Wrap-up</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">12:30 - 13:00</td><td style="border: 1px solid #ccc; padding: 8px;">Lunch</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:00 - 13:10</td><td style="border: 1px solid #ccc; padding: 8px;">Opening & kennismaking</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:10 - 13:35</td><td style="border: 1px solid #ccc; padding: 8px;">Inleiding & zoekstrategie: waar?</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:35 - 13:50</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 1</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:50 - 14:00</td><td style="border: 1px solid #ccc; padding: 8px;">Bespreken opdracht 1</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:00 - 14:10</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:10 - 14:25</td><td style="border: 1px solid #ccc; padding: 8px;">Zoeken en documenteren</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:25 - 14:45</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 2</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:45 - 14:55</td><td style="border: 1px solid #ccc; padding: 8px;">Bespreken opdracht 2</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:55 - 15:05</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">15:05 - 15:20</td><td style="border: 1px solid #ccc; padding: 8px;">Beoordelen van datasets</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">15:20 - 15:40</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 3</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">15:40 - 15:50</td><td style="border: 1px solid #ccc; padding: 8px;">Bespreken opdracht 3</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">15:50 - 16:00</td><td style="border: 1px solid #ccc; padding: 8px;">Wrap-up</td></tr>
       </tbody>
     </table>
   </div>
@@ -61,3 +65,20 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
   </div>
 </div>
 
+<!-- Gedragscode -->
+<div style="margin-top: 3em;">
+  <h2>Gedragscode</h2>
+  <p>Van deelnemers wordt verwacht dat zij zich aan de volgende richtlijnen houden:</p>
+  <ul>
+    <li>Gebruik inclusieve taal</li>
+    <li>Wees respectvol tegenover verschillende standpunten en ervaringen</li>
+    <li>Accepteer constructieve kritiek op een prettige manier</li>
+    <li>Focus op wat het beste is voor alle deelnemers</li>
+    <li>Toon respect jegens andere deelnemers van de training</li>
+    <li>Wij tolereren geen enkele vorm van discriminatie, intimidatie of pesterij.</li>
+  </ul>
+  <p>
+    Als je van mening bent dat een van deze richtlijnen is geschonden,
+    neem dan contact op met de organisatoren van de workshop!
+  </p>
+</div>
