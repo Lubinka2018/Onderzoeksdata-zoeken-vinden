@@ -34,4 +34,6 @@
 - [OpenAIRE](https://www.openaire.eu/)
 - [OpenAlex](https://openalex.org/)
 - [Data Citation Index (Clarivate)](https://clarivate.com/webofsciencegroup/solutions/webofscience-data-citation-index/)
+
+### Datatijdschriften  
 - [Lijst van datatijdschriften (Zenodo)](https://zenodo.org/records/7082126)
