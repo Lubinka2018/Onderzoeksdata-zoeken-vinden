@@ -65,7 +65,7 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     <div style="margin-top: 1.5em;">
     
       <ul>
-        <li><a href="Bronnen">Bronnen en linkjes</a></li>
+        <li><a href="Bronnen">Bronnen</a></li>
       </ul>
     </div>
   </div>
