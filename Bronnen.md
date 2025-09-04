@@ -1,3 +1,5 @@
+[← Terug naar start]({{ site.baseurl }}/)
+
 ## Bronnen en linkjes
 
 ### Generieke zoekmachines
