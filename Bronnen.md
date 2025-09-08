@@ -24,7 +24,6 @@
 ### Open data platforms
 - [Kaggle](https://www.kaggle.com/datasets)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
-- [PECE: Platform for Experimental, Collaborative Ethnography](https://pece.org/)
 - [World Bank Group Data](https://data.worldbank.org/)
 - [OECD Data](https://data.oecd.org/)
 
@@ -33,7 +32,7 @@
 - [OSF – Open Science Framework](https://osf.io/)
 - [OpenAIRE](https://www.openaire.eu/)
 - [OpenAlex](https://openalex.org/)
-- [Data Citation Index (Clarivate)](https://clarivate.com/webofsciencegroup/solutions/webofscience-data-citation-index/)
+
 
 ### Datatijdschriften  
 - [Lijst van datatijdschriften (Zenodo)](https://zenodo.org/records/7082126)
