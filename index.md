@@ -93,11 +93,6 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     Dit project valt onder de 
     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">
       <strong>Creative Commons Attribution 4.0-licentie</strong>
-    </a>.
-  </p>
-  <p>
-    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">
-      https://creativecommons.org/licenses/by/4.0/
-    </a>
+     </a>
   </p>
 </div>
