@@ -2,6 +2,11 @@
 
 ## Bronnen en linkjes
 
+### Registries van data repositories
+- [Re3data](https://www.re3data.org/)
+- [OAD](https://oad.simmons.edu/oadwiki/Data_repositories)
+- [FAIRsharing.org](https://fairsharing.org/)
+
 ### Generieke zoekmachines
 - [DataCite](https://commons.datacite.org/)
 - [Dataset Search](https://datasetsearch.research.google.com/)
@@ -32,7 +37,6 @@
 - [OSF – Open Science Framework](https://osf.io/)
 - [OpenAIRE](https://www.openaire.eu/)
 - [OpenAlex](https://openalex.org/)
-
 
 ### Datatijdschriften  
 - [Lijst van datatijdschriften (Zenodo)](https://zenodo.org/records/7082126)
