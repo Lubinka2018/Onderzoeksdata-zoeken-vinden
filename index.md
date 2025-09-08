@@ -39,12 +39,10 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
         <tr><td style="border: 1px solid #ccc; padding: 8px;">12:30 - 13:00</td><td style="border: 1px solid #ccc; padding: 8px;">Lunch</td></tr>
         <tr><td style="border: 1px solid #ccc; padding: 8px;">13:00 - 13:10</td><td style="border: 1px solid #ccc; padding: 8px;">Opening & kennismaking</td></tr>
         <tr><td style="border: 1px solid #ccc; padding: 8px;">13:10 - 13:35</td><td style="border: 1px solid #ccc; padding: 8px;">Inleiding & zoekstrategie: waar?</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:35 - 13:50</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 1</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:50 - 14:00</td><td style="border: 1px solid #ccc; padding: 8px;">Bespreken opdracht 1</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:35 - 14:00</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 1</td></tr>
         <tr><td style="border: 1px solid #ccc; padding: 8px;">14:00 - 14:10</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
         <tr><td style="border: 1px solid #ccc; padding: 8px;">14:10 - 14:25</td><td style="border: 1px solid #ccc; padding: 8px;">Zoeken en documenteren</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:25 - 14:45</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 2</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:45 - 14:55</td><td style="border: 1px solid #ccc; padding: 8px;">Bespreken opdracht 2</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:25 - 14:55</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 2</td></tr>
         <tr><td style="border: 1px solid #ccc; padding: 8px;">14:55 - 15:05</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
         <tr><td style="border: 1px solid #ccc; padding: 8px;">15:05 - 15:20</td><td style="border: 1px solid #ccc; padding: 8px;">Beoordelen van datasets</td></tr>
         <tr><td style="border: 1px solid #ccc; padding: 8px;">15:20 - 15:40</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 3</td></tr>
@@ -63,9 +61,9 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
       <li><a href="Opdracht3">Opdracht 3</a></li>
     </ul>
     <div style="margin-top: 1.5em;">
-    
+      <h2>Bronnen</h2>
       <ul>
-        <li><a href="Bronnen">Bronnen</a></li>
+        <li><a href="Bronnen">Bronnen en linkjes</a></li>
       </ul>
     </div>
   </div>
@@ -95,6 +93,11 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     Dit project valt onder de 
     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">
       <strong>Creative Commons Attribution 4.0-licentie</strong>
+    </a>.
+  </p>
+  <p>
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">
+      https://creativecommons.org/licenses/by/4.0/
     </a>
   </p>
 </div>
