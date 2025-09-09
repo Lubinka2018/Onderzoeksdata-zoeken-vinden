@@ -3,42 +3,45 @@
 ## Bronnen en linkjes
 
 ### Registries van data repositories
-- [Re3data](https://www.re3data.org/)
-- [OAD](https://oad.simmons.edu/oadwiki/Data_repositories)
-- [FAIRsharing.org](https://fairsharing.org/)
+- <a href="https://www.re3data.org/" target="_blank" rel="noopener noreferrer">Re3data</a>
+- <a href="https://oad.simmons.edu/oadwiki/Data_repositories" target="_blank" rel="noopener noreferrer">OAD</a>
+- <a href="https://fairsharing.org/" target="_blank" rel="noopener noreferrer">FAIRsharing.org</a>
 
 ### Generieke zoekmachines
-- [DataCite](https://commons.datacite.org/)
-- [Dataset Search](https://datasetsearch.research.google.com/)
+- <a href="https://commons.datacite.org/" target="_blank" rel="noopener noreferrer">DataCite</a>
+- <a href="https://datasetsearch.research.google.com/" target="_blank" rel="noopener noreferrer">Dataset Search</a>
 
 ### Vakspecifieke zoekmachines (sociale wetenschappen)
-- [Portal ODISSEI](https://odissei-data.nl/nl/)
-- [CESSDA](https://www.cessda.eu/)
+- <a href="https://odissei-data.nl/nl/" target="_blank" rel="noopener noreferrer">Portal ODISSEI</a>
+- <a href="https://www.cessda.eu/" target="_blank" rel="noopener noreferrer">CESSDA</a>
 
 ### Nederlandse data repositories
-- [DANS Data Stations](https://dans.knaw.nl/nl/data-stations/)
-- [DataverseNL](https://dataverse.nl/)
-- [4TU.Research Data](https://data.4tu.nl/)
+- <a href="https://dans.knaw.nl/nl/data-stations/" target="_blank" rel="noopener noreferrer">DANS Data Stations</a>
+- <a href="https://dataverse.nl/" target="_blank" rel="noopener noreferrer">DataverseNL</a>
+- <a href="https://data.4tu.nl/" target="_blank" rel="noopener noreferrer">4TU.Research Data</a>
 
 ### Internationale data repositories
-- [Dryad](https://datadryad.org/)
+- <a href="https://datadryad.org/" target="_blank" rel="noopener noreferrer">Dryad</a>
 
 ### Overheidsdata
-- [Overheid.nl](https://www.overheid.nl/)
-- [CBS Open Data StatLine](https://opendata.cbs.nl/)
-- [RIVM Data](https://www.rivm.nl/dataportaal)
+- <a href="https://www.overheid.nl/" target="_blank" rel="noopener noreferrer">Overheid.nl</a>
+- <a href="https://opendata.cbs.nl/" target="_blank" rel="noopener noreferrer">CBS Open Data StatLine</a>
+- <a href="https://www.rivm.nl/dataportaal" target="_blank" rel="noopener noreferrer">RIVM Data</a>
 
 ### Open data platforms
-- [Kaggle](https://www.kaggle.com/datasets)
-- [Hugging Face Datasets](https://huggingface.co/datasets)
-- [World Bank Group Data](https://data.worldbank.org/)
-- [OECD Data](https://data.oecd.org/)
+- <a href="https://www.kaggle.com/datasets" target="_blank" rel="noopener noreferrer">Kaggle</a>
+- <a href="https://huggingface.co/datasets" target="_blank" rel="noopener noreferrer">Hugging Face Datasets</a>
+- <a href="https://data.worldbank.org/" target="_blank" rel="noopener noreferrer">World Bank Group Data</a>
+- <a href="https://data.oecd.org/" target="_blank" rel="noopener noreferrer">OECD Data</a>
 
 ### Andere mogelijkheden
-- [Zenodo](https://zenodo.org/)
-- [OSF – Open Science Framework](https://osf.io/)
-- [OpenAIRE](https://www.openaire.eu/)
-- [OpenAlex](https://openalex.org/)
+- <a href="https://zenodo.org/" target="_blank" rel="noopener noreferrer">Zenodo</a>
+- <a href="https://osf.io/" target="_blank" rel="noopener noreferrer">OSF – Open Science Framework</a>
+- <a href="https://www.openaire.eu/" target="_blank" rel="noopener noreferrer">OpenAIRE</a>
+- <a href="https://openalex.org/" target="_blank" rel="noopener noreferrer">OpenAlex</a>
 
 ### Datatijdschriften  
-- [Lijst van datatijdschriften (Zenodo)](https://zenodo.org/records/7082126)
+- <a href="https://zenodo.org/records/7082126" target="_blank" rel="noopener noreferrer">Lijst van datatijdschriften (Zenodo)</a>
+
+
+
