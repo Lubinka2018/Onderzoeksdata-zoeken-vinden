@@ -1,12 +1,10 @@
+[← Back to start]({{ site.baseurl }}/)
 
-[← Terug naar start]({{ site.baseurl }}/)
+## Assignment 1
 
-# Opdracht 1
+Formulate your research question  
+Select relevant data repositories and other sources  
 
-## Formuleer je onderzoeksvraag
+Create a plan: when will you search? In what order will you search (search engines, repositories, literature, etc.)?
 
-1. Selecteer relevante data repositories en andere bronnen
-   
-3. Maak een planning: wanneer ga je zoeken? In welke volgorde ga je zoeken (zoekmachines, repositories, literatuur, etc.)?
-   
-5. Verantwoord je strategie en selectie
+Justify your strategy and selection
