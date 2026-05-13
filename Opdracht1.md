@@ -1,6 +1,6 @@
 [← Back to start]({{ site.baseurl }}/)
 
-## Assignment 1
+## Exercise 1
 
 Formulate your research question  
 Select relevant data repositories and other sources  
