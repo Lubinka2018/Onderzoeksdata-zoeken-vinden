@@ -1,10 +1,6 @@
-[← Back to start]({{ site.baseurl }}/)
+[← Terug naar start]({{ site.baseurl }}/) 
 
-## Exercise 1
-
-Formulate your research question  
-Select relevant data repositories and other sources  
-
-Create a plan: when will you search? In what order will you search (search engines, repositories, literature, etc.)?
-
-Justify your strategy and selection
+Opdracht 1 Formuleer je onderzoeksvraag 
+Selecteer relevante data repositories en andere bronnen 
+Maak een planning: wanneer ga je zoeken? In welke volgorde ga je zoeken (zoekmachines, repositories, literatuur, etc.)? 
+Verantwoord je strategie en selectie
